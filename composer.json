@@ -1,5 +1,5 @@
 {
-    "name": "yourname/tcmb-financial",
+    "name": "fathkoc/tcmb-financial",
     "description": "A comprehensive library to fetch financial data from TCMB, including exchange rates and interest rates.",
     "type": "library",
     "autoload": {
