@@ -16,5 +16,7 @@
             "name": "fatih Koç",
             "email": "fathkccc@gmail.com"
         }
-    ]
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
